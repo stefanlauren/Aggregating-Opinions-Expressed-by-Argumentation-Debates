@@ -1,0 +1,2 @@
+# Aggregating-Opinions-Expressed-by-Argumentation-Debates
+We introduce a novel method to aggregate Bipolar Argumentation(BA) Frameworks expressing opinions by different parties in debates. We use Bipolar Assumption-based Argumentation (ABA) as an all-encompassing formalism for BA under different semantics. By leveraging on recent results on judgement aggregation in Social Choice Theory, we prove several preservation results, both positive and negative, for relevant properties of Bipolar ABA.
